@@ -1,0 +1,17 @@
+.boarder {
+  border: 1px solid black;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  flex-wrap: wrap;
+}
+
+.img {
+  width: 100px;
+  height: 100px;
+}
